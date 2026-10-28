@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "provider-catalog",
+  "version": "1.0.0",
+  "description": "Look up delivery providers' integration specs in the provider catalog.",
+  "author": {
+    "name": "Globomantics Shipping team"
+  },
+  "keywords": ["globomantics", "providers", "integration-specs"]
+}

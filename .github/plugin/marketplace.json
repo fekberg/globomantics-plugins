@@ -1,0 +1,18 @@
+{
+  "name": "globomantics-plugins",
+  "owner": {
+    "name": "Globomantics Shipping team"
+  },
+  "metadata": {
+    "description": "Plugins the Globomantics Shipping team builds and shares with each other.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "provider-catalog",
+      "description": "Look up delivery providers' integration specs in the provider catalog.",
+      "version": "1.0.0",
+      "source": "./plugins/provider-catalog"
+    }
+  ]
+}
